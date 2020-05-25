@@ -1,2 +1,9 @@
-﻿  main.cpp
-  opencvpointtest.vcxproj -> D:\Business\DemoTEST\CPP\opencvpointtest\x64\Debug\opencvpointtest.exe
+﻿  AStarCalc.cpp
+D:\Business\DemoTEST\CPP\OpenCVPathPlanning\opencvpointtest\AStarCalc.cpp(168,55): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  JPSCalc.cpp
+D:\Business\DemoTEST\CPP\OpenCVPathPlanning\opencvpointtest\JPSCalc.cpp(19,10): warning C4101: “f”: 未引用的局部变量
+  main.cpp
+  PathDetector.cpp
+D:\Business\DemoTEST\CPP\OpenCVPathPlanning\opencvpointtest\PathDetector.cpp(47,39): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  opencvpointtest.vcxproj -> D:\Business\DemoTEST\CPP\OpenCVPathPlanning\x64\Debug\opencvpointtest.exe
